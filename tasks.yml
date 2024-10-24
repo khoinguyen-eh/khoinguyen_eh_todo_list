@@ -1,0 +1,43 @@
+---
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Something really cool
+  completed: true
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Something really cool 1
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Something really cool 2
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Something really cool 3
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Something really cool 4
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Test Task
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Test Task
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Test Task
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Test Task
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Test Task
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Test Task
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Test Task
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Test Task
+  completed: false
+- !ruby/object:KhoinguyenEhTodoList::Task
+  title: Test Task
+  completed: false
